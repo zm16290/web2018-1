@@ -5,7 +5,7 @@ function sayhello12() {
 
 function taro12() {
   who = '太郎';
-  alert('太郎が来た');
+  alert('太郎が来たyo');
 }
 function hanako12(){
   who = '花子';
